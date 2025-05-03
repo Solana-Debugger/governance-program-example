@@ -1,2 +1,2 @@
-solana-program-library/target
-.idea
+/solana-program-library/target
+/solana-program-library.idea
