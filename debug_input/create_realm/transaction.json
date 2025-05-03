@@ -1,0 +1,22 @@
+{
+    "payer": "ErYtiTzok87AmGZzVjqQifsdgHCef43DbBngra7xvRPr",
+    "instructions": [
+        {
+            "program_id": "Governance111111111111111111111111111111111",
+            "accounts": [
+                {"pubkey": "4EnFq17PTfhFLH22pofMjovLQDb8fHAMhYwfSDHakCXT", "is_signer": false, "is_writable": true},
+                {"pubkey": "2qTaVcNqjnDzuPiUPbyrqcUsEQH4MjDZXckhY51A59xE", "is_signer": false, "is_writable": false},
+                {"pubkey": "5wreW8rtct8XVLaguQ2gPCPnhrxq8XKTLiAk51wDgr2E", "is_signer": false, "is_writable": false},
+                {"pubkey": "2hzsjRMTZed9Gyw4pArtd764uqYAGzqN97VmGQUMiGsm", "is_signer": false, "is_writable": true},
+                {"pubkey": "ErYtiTzok87AmGZzVjqQifsdgHCef43DbBngra7xvRPr", "is_signer": true, "is_writable": true},
+                {"pubkey": "11111111111111111111111111111111", "is_signer": false, "is_writable": false},
+                {"pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", "is_signer": false, "is_writable": false},
+                {"pubkey": "SysvarRent111111111111111111111111111111111", "is_signer": false, "is_writable": false},
+                {"pubkey": "G8nje9Wtyp1P6gi1oVnJ4VvfRVEKcoZnPVTwzyWxhZbV", "is_signer": false, "is_writable": false},
+                {"pubkey": "5ujzmSQiMrCmwDtSj697VCoTGXCjBdQ7q942p5uEpqHV", "is_signer": false, "is_writable": true},
+                {"pubkey": "5JcrfaQewRxmoPAVncQjW4vVgK6ApAv3LhFT7fdFzgn1", "is_signer": false, "is_writable": true}
+            ],
+            "data": [0, 8, 0, 0, 0, 82, 101, 97, 108, 109, 32, 35, 48, 1, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 228, 11, 84, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+    ]
+}
